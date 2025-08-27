@@ -1,0 +1,1 @@
+Created this to send me an alert on Telegram whenever there was a post to r/buildapcsales that for a GPU, CPU, or Bundle. Used telgram as it seems like the best free option messaging service on my phone.
