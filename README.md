@@ -1,1 +1,1 @@
-Created this to send me an alert on Telegram whenever there was a post to r/buildapcsales that for a GPU, CPU, or Bundle. Used telgram as it seems like the best free option messaging service on my phone.
+Created this to send me an alert on Telegram whenever there was a post to r/buildapcsales that for a GPU, CPU, or Bundle. Used telgram as it seems like the best free option messaging service on my phone. Scheduled this to run every 10 minutes in Task Scheduler to not miss any deals since cpus and gpus were selling like hotcakes.  
